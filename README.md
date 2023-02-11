@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-https://ayush-dass.github.io/Robo-Friends/ <br><br>
+https://ayush-dass.github.io/Robo-Friends/ <br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
